@@ -1,0 +1,398 @@
+[
+    {
+        "deviceId": "PEN-ABC-12345",
+        "timestamp": "2025-06-22T12:21:24Z",
+        "rawSensorData": {
+            "sensorType": "accelerometer",
+            "sensorValue": {
+                "x": 9.77109146118164,
+                "y": 0.008374879136681557,
+                "z": 0.39840495586395264
+            }
+        },
+        "batteryLevel": 43.0,
+        "isWriting": true,
+        "location": {
+            "latitude": 35.345888254232705,
+            "longitude": 139.47793814353645
+        }
+    },
+    {
+        "deviceId": "PEN-ABC-12345",
+        "timestamp": "2025-06-22T12:21:32Z",
+        "rawSensorData": {
+            "sensorType": "accelerometer",
+            "sensorValue": {
+                "x": 0.012562318705022335,
+                "y": -9.777671813964844,
+                "z": 0.25782662630081177
+            }
+        },
+        "batteryLevel": 43.0,
+        "isWriting": true,
+        "location": {
+            "latitude": 35.34588879905641,
+            "longitude": 139.4779480341822
+        }
+    },
+    {
+        "deviceId": "PEN-ABC-12345",
+        "timestamp": "2025-06-22T12:21:38Z",
+        "rawSensorData": {
+            "sensorType": "accelerometer",
+            "sensorValue": {
+                "x": -9.78245735168457,
+                "y": -0.02153540402650833,
+                "z": 0.1788634955883026
+            }
+        },
+        "batteryLevel": 43.0,
+        "isWriting": true,
+        "location": {
+            "latitude": 35.34594575408846,
+            "longitude": 139.4779417477548
+        }
+    },
+    {
+        "deviceId": "PEN-ABC-12345",
+        "timestamp": "2025-06-22T12:21:48Z",
+        "rawSensorData": {
+            "sensorType": "accelerometer",
+            "sensorValue": {
+                "x": 0.029312077909708023,
+                "y": 0.11425728350877762,
+                "z": 9.801599502563477
+            }
+        },
+        "batteryLevel": 43.0,
+        "isWriting": true,
+        "location": {
+            "latitude": 35.345975677482784,
+            "longitude": 139.47796924039721
+        }
+    },
+    {
+        "deviceId": "PEN-ABC-12345",
+        "timestamp": "2025-06-22T12:21:54Z",
+        "rawSensorData": {
+            "sensorType": "accelerometer",
+            "sensorValue": {
+                "x": 0.02512463741004467,
+                "y": -0.05144568532705307,
+                "z": -9.767501831054688
+            }
+        },
+        "batteryLevel": 43.0,
+        "isWriting": true,
+        "location": {
+            "latitude": 35.34586369525641,
+            "longitude": 139.4779567513615
+        }
+    },
+    {
+        "deviceId": "PEN-ABC-12345",
+        "timestamp": "2025-06-22T12:21:59Z",
+        "rawSensorData": {
+            "sensorType": "accelerometer",
+            "sensorValue": {
+                "x": -0.35473597049713135,
+                "y": 2.2271196842193604,
+                "z": 9.430113792419434
+            }
+        },
+        "batteryLevel": 43.0,
+        "isWriting": true,
+        "location": {
+            "latitude": 35.34606071189046,
+            "longitude": 139.47797359898686
+        }
+    },
+    {
+        "deviceId": "PEN-ABC-12345",
+        "timestamp": "2025-06-22T12:22:06Z",
+        "rawSensorData": {
+            "sensorType": "accelerometer",
+            "sensorValue": {
+                "x": 1.414756417274475,
+                "y": 3.5324044227600098,
+                "z": 9.366106033325195
+            }
+        },
+        "batteryLevel": 43.0,
+        "isWriting": true,
+        "location": {
+            "latitude": 35.34588364418596,
+            "longitude": 139.47798499837518
+        }
+    },
+    {
+        "deviceId": "PEN-ABC-12345",
+        "timestamp": "2025-06-22T12:22:11Z",
+        "rawSensorData": {
+            "sensorType": "accelerometer",
+            "sensorValue": {
+                "x": 1.200000524520874,
+                "y": 4.961517810821533,
+                "z": 8.575876235961914
+            }
+        },
+        "batteryLevel": 43.0,
+        "isWriting": true,
+        "location": {
+            "latitude": 35.345793538726866,
+            "longitude": 139.47795691899955
+        }
+    },
+    {
+        "deviceId": "PEN-ABC-12345",
+        "timestamp": "2025-06-22T12:22:18Z",
+        "rawSensorData": {
+            "sensorType": "accelerometer",
+            "sensorValue": {
+                "x": 1.236491084098816,
+                "y": 4.2622151374816895,
+                "z": 8.810373306274414
+            }
+        },
+        "batteryLevel": 43.0,
+        "isWriting": true,
+        "location": {
+            "latitude": 35.345813990570605,
+            "longitude": 139.47809823788702
+        }
+    },
+    {
+        "deviceId": "PEN-ABC-12345",
+        "timestamp": "2025-06-22T12:22:23Z",
+        "rawSensorData": {
+            "sensorType": "accelerometer",
+            "sensorValue": {
+                "x": 0.07058826833963394,
+                "y": 3.628117322921753,
+                "z": 8.045268058776855
+            }
+        },
+        "batteryLevel": 43.0,
+        "isWriting": true,
+        "location": {
+            "latitude": 35.345705025829375,
+            "longitude": 139.4779966492206
+        }
+    },
+    {
+        "deviceId": "PEN-ABC-12345",
+        "timestamp": "2025-06-22T12:22:30Z",
+        "rawSensorData": {
+            "sensorType": "accelerometer",
+            "sensorValue": {
+                "x": -0.2392822653055191,
+                "y": 9.542576789855957,
+                "z": 0.3601198196411133
+            }
+        },
+        "batteryLevel": 43.0,
+        "isWriting": true,
+        "location": {
+            "latitude": 35.345846973359585,
+            "longitude": 139.47802640497684
+        }
+    },
+    {
+        "deviceId": "PEN-ABC-12345",
+        "timestamp": "2025-06-22T12:22:35Z",
+        "rawSensorData": {
+            "sensorType": "accelerometer",
+            "sensorValue": {
+                "x": -5.059623718261719,
+                "y": 6.117250919342041,
+                "z": -5.168497085571289
+            }
+        },
+        "batteryLevel": 43.0,
+        "isWriting": true,
+        "location": {
+            "latitude": 35.34584269858897,
+            "longitude": 139.47789698839188
+        }
+    },
+    {
+        "deviceId": "PEN-ABC-12345",
+        "timestamp": "2025-06-22T12:22:40Z",
+        "rawSensorData": {
+            "sensorType": "accelerometer",
+            "sensorValue": {
+                "x": 1.7509479522705078,
+                "y": 7.311269760131836,
+                "z": -6.029314994812012
+            }
+        },
+        "batteryLevel": 43.0,
+        "isWriting": true,
+        "location": {
+            "latitude": 35.345848063007,
+            "longitude": 139.47801299393177
+        }
+    },
+    {
+        "deviceId": "PEN-ABC-12345",
+        "timestamp": "2025-06-22T12:22:46Z",
+        "rawSensorData": {
+            "sensorType": "accelerometer",
+            "sensorValue": {
+                "x": 2.537588357925415,
+                "y": 6.9206414222717285,
+                "z": 6.775277137756348
+            }
+        },
+        "batteryLevel": 43.0,
+        "isWriting": true,
+        "location": {
+            "latitude": 35.345773631706834,
+            "longitude": 139.4780944660306
+        }
+    },
+    {
+        "deviceId": "PEN-ABC-12345",
+        "timestamp": "2025-06-22T12:22:51Z",
+        "rawSensorData": {
+            "sensorType": "accelerometer",
+            "sensorValue": {
+                "x": 0.6897311210632324,
+                "y": 9.697511672973633,
+                "z": 1.0671988725662231
+            }
+        },
+        "batteryLevel": 43.0,
+        "isWriting": true,
+        "location": {
+            "latitude": 35.34573017153889,
+            "longitude": 139.47798633947968
+        }
+    },
+    {
+        "deviceId": "PEN-ABC-12345",
+        "timestamp": "2025-06-22T12:22:59Z",
+        "rawSensorData": {
+            "sensorType": "accelerometer",
+            "sensorValue": {
+                "x": -1.810170292854309,
+                "y": 10.057631492614746,
+                "z": 2.923431158065796
+            }
+        },
+        "batteryLevel": 43.0,
+        "isWriting": true,
+        "location": {
+            "latitude": 35.345827443525195,
+            "longitude": 139.47789405472577
+        }
+    },
+    {
+        "deviceId": "PEN-ABC-12345",
+        "timestamp": "2025-06-22T12:23:04Z",
+        "rawSensorData": {
+            "sensorType": "accelerometer",
+            "sensorValue": {
+                "x": -0.05503492057323456,
+                "y": 9.643074989318848,
+                "z": 1.5696916580200195
+            }
+        },
+        "batteryLevel": 43.0,
+        "isWriting": true,
+        "location": {
+            "latitude": 35.345840812660754,
+            "longitude": 139.47791190817952
+        }
+    },
+    {
+        "deviceId": "PEN-ABC-12345",
+        "timestamp": "2025-06-22T12:23:10Z",
+        "rawSensorData": {
+            "sensorType": "accelerometer",
+            "sensorValue": {
+                "x": -0.1704886108636856,
+                "y": 9.604789733886719,
+                "z": 1.4727823734283447
+            }
+        },
+        "batteryLevel": 43.0,
+        "isWriting": true,
+        "location": {
+            "latitude": 35.34591645933688,
+            "longitude": 139.47794451378286
+        }
+    },
+    {
+        "deviceId": "PEN-ABC-12345",
+        "timestamp": "2025-06-22T12:23:15Z",
+        "rawSensorData": {
+            "sensorType": "accelerometer",
+            "sensorValue": {
+                "x": 1.6007983684539795,
+                "y": 7.7832536697387695,
+                "z": 6.6454668045043945
+            }
+        },
+        "batteryLevel": 43.0,
+        "isWriting": true,
+        "location": {
+            "latitude": 35.34578574355692,
+            "longitude": 139.47786052711308
+        }
+    },
+    {
+        "deviceId": "PEN-ABC-12345",
+        "timestamp": "2025-06-22T12:23:21Z",
+        "rawSensorData": {
+            "sensorType": "accelerometer",
+            "sensorValue": {
+                "x": 6.740581512451172,
+                "y": 0.2566302418708801,
+                "z": 6.93320369720459
+            }
+        },
+        "batteryLevel": 43.0,
+        "isWriting": true,
+        "location": {
+            "latitude": 35.34589177463204,
+            "longitude": 139.47786094620824
+        }
+    },
+    {
+        "deviceId": "PEN-ABC-12345",
+        "timestamp": "2025-06-22T12:23:26Z",
+        "rawSensorData": {
+            "sensorType": "accelerometer",
+            "sensorValue": {
+                "x": 0.2709871530532837,
+                "y": 6.844669342041016,
+                "z": 6.975078105926514
+            }
+        },
+        "batteryLevel": 43.0,
+        "isWriting": true,
+        "location": {
+            "latitude": 35.34590447321534,
+            "longitude": 139.47792473249137
+        }
+    },
+    {
+        "deviceId": "PEN-ABC-12345",
+        "timestamp": "2025-06-22T12:23:31Z",
+        "rawSensorData": {
+            "sensorType": "accelerometer",
+            "sensorValue": {
+                "x": -0.6921239495277405,
+                "y": 9.736993789672852,
+                "z": 0.1052841991186142
+            }
+        },
+        "batteryLevel": 42.0,
+        "isWriting": true,
+        "location": {
+            "latitude": 35.34584169276059,
+            "longitude": 139.47791861370206
+        }
+    }
+]
